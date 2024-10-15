@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ujjawal Singh, a final year student. </h1>
+<h1 align="center">Hi 👋, I'm Ujjawal Singh, A Final Year Student. </h1>
 <h3 align="center">A passionate Full Stack Developer from Jaipur,India</h3>
 <p align="center">I am captivated by how computer technology 🌐 has revolutionized our lives in unimaginable ways. Experiencing the growth of computer science sparked my interest in studying software engineering at an early age, and my passion has continually evolved ever since. I also love diving into new tech stacks 💻 and harnessing them to create amazing projects 🛠️.</p>
 <p align="center"> 
